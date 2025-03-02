@@ -1,0 +1,19 @@
+{
+  "name": "trick-lab-code",
+  "version": "1.0.0",
+  "description": "TrickLabCode by MilaBozhevskaya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milabozhevskaya/trick-lab-code.git"
+  },
+  "author": "MilaBozhevskaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milabozhevskaya/trick-lab-code/issues"
+  },
+  "homepage": "https://github.com/milabozhevskaya/trick-lab-code#readme"
+}
