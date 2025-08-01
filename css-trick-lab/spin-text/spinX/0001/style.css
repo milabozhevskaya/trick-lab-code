@@ -1,0 +1,30 @@
+body {
+  background: #ff008b;
+  margin: 0;
+  padding: 0;
+  
+}
+
+.text-list {
+  padding: 50px;
+  margin: 0;
+  border: 10px solid #fff;
+  display: flex;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+  transition: 0s;
+}
+
+.text-item {
+  list-style: none;
+  color: #fff;
+  font-size: 5em;
+  font-family: 'arial';
+  transition: .9s;
+}
+
+.text-list:hover .text-item {
+  transform: rotateY(360deg);
+}
